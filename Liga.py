@@ -51,7 +51,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 #vsota_=0
                 vsota2=0 #Vsota za povprečje.
                 for i,j in stanjeLigeA[(x,y)].items():
-                    if i not in ['sestevek','povprecje','klub','ime','priimek'] and j[1]!='-' and j[1]>0:
+                    if i not in ['sestevek','povprecje','klub','ime','priimek'] and j[1]!='-' and j[1]>=0:
                         #vsota_+=round(j[1])
                         if i not in indeksi:
                             vsota2+=round(j[1])
@@ -67,7 +67,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
         for x,y in stanjeLigeA:
             seznam=[]
             for i,j in stanjeLigeA[(x,y)].items():
-                if i in [k for k in range(1,20)] and j[1]!='-' and j[1]>0:
+                if i in [k for k in range(1,20)] and j[1]!='-' and j[1]>=0:
                     seznam.append(j[1])
             seznam.sort()
             seznam=seznam[::-1]
