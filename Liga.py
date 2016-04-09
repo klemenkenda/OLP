@@ -44,7 +44,11 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
             else:
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
             
-            
+
+            try:
+                stanjeLigeA[(sumniki(x),sumniki(y))][0]
+            except KeyError:
+                stanjeLigeA[(sumniki(x),sumniki(y))][0] = [0, 500, True]
             if stanjeLigeA[(sumniki(x),sumniki(y))][0][2]:#Naj ostanejo točke iz začetka leta, če obstajajo (tam je true/false), sicer zračunamo povprečje.
                 #k=0
                 l=0
@@ -219,13 +223,13 @@ def rezultati(st_lige,stanjeLige):
                     if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
                         klub1=a[kl]
                         break
-                if kategorija== "ELITE":
+                if kategorija== "A":
                     if klub1 in ind:
                         klub1='ind.'       
-                    if (ime1,priimek1) not in stanjeLige['ELITE']:
-                        stanjeLige['ELITE'][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
-                    elif stanjeLige['ELITE'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
-                        stanjeLige['ELITE'][(ime1,priimek1)]['klub']=klub1
+                    if (ime1,priimek1) not in stanjeLige['A']:
+                        stanjeLige['A'][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
+                    elif stanjeLige['A'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
+                        stanjeLige['A'][(ime1,priimek1)]['klub']=klub1
                     if cas!='dns':
                         rezultatiTekmeA[(ime1,priimek1)]=cas
                 elif kategorija== "B":
@@ -253,7 +257,7 @@ def rezultati(st_lige,stanjeLige):
                 else:
                     pass
             rownum+=1
-    rezultatiTekme={'ELITE':rezultatiTekmeA,'B':rezultatiTekmeB,'C':rezultatiTekmeC}
+    rezultatiTekme={'A':rezultatiTekmeA,'B':rezultatiTekmeB,'C':rezultatiTekmeC}
     return rezultatiTekme
 def vCsv(stanjeLige,st_tekem):
     with open('./Stanja_racunana/StanjeLige'+str(st_tekem)+'.csv','w+',encoding='utf-8') as f:
@@ -261,7 +265,7 @@ def vCsv(stanjeLige,st_tekem):
         for i in range(1,st_tekem +1):
             f.write(';'+'OLP'+str(i))
         f.write(';Sum;Average\n')
-        for k in ['ELITE','B','C']:
+        for k in ['A','B','C']:
             h=[]
             for x,y in stanjeLige[k].keys():
                 if stanjeLige[k][x,y].get('sestevek',None)!=None:
