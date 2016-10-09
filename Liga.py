@@ -131,10 +131,12 @@ def rezultati(st_lige,stanjeLige):
                     else:
                         pass            
                     colnum+=1
+                if not('ok' in globals()):
+                    ok = 0
                 if ok == "":
                     ok = 0
                 ok=int(ok)
-                if cas1:
+                if 'cas1' in globals():
                     if ok in [2,3,4]:
                         cas='mp'
                     elif ok==1:
@@ -154,7 +156,7 @@ def rezultati(st_lige,stanjeLige):
                             cas[1]=cas[0]
                             cas[0]=str(0)
                         cas=[int(cas[0]),int(cas[1]),int(cas[2])]
-                if cas1 and cas not in ['mp','dns']:
+                if 'cas1' in globals() and cas not in ['mp','dns']:
                     for i in range(2,0,-1):
                         if cas[i]>=60:
                             cas[i-1]=cas[i-1]+cas[i]//60

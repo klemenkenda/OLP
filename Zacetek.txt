@@ -6,6 +6,7 @@ Flerin;Mojca;OK Komenda;ELITE;996
 Kölner;Blaž;OK Komenda;ELITE;989
 Kenda;Klemen;OK Azimut;ELITE;978
 Čerin;Boštjan;OK Tivoli;ELITE;967
+Kenda;Klemen;OK Azimut;ELITE;950
 Škarabot;Miha;OK Polaris;ELITE;938
 Kos;Janez Elija;OK Tivoli;ELITE;929
 Pribaković Borštnik;Ana;OK Tivoli;ELITE;844
