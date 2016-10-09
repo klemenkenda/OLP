@@ -1,0 +1,41 @@
+﻿Surname;First name;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls
+Tušar;Peter;0:48:45;1;0;OK Azimut;;A;3,78;300;15
+Poljanšek;Aleš;0:58:45;2;0;OK Azimut;;A;3,78;300;15
+Sedej;Matej;1:03:44;3;0;OK Azimut;;A;3,78;300;15
+Eržen;Valentin;1:07:49;4;0;OK Azimut;;A;3,78;300;15
+Kremžar;Tomaž;1:10:27;5;0;ind.;;A;3,78;300;15
+Cimerman;Janez;1:14:35;6;0;OK Azimut;;A;3,78;300;15
+Kunc;Robert;1:14:48;7;0;OK Tivoli;;A;3,78;300;15
+Vidič;Matej;1:40:54;8;0;OK Azimut;;A;3,78;300;15
+Hribernik;Matej;;;3;ind.;;A;3,78;300;15
+Pust;Tomaž;1:01:48;1;0;OK Azimut;;B;3,22;250;11
+Bogataj;Boštjan;1:08:54;2;0;OK Azimut;;B;3,22;250;11
+Razpet;Deja;1:10:34;3;0;OK Azimut;;B;3,22;250;11
+Poljanšek;Nika;1:12:00;4;0;OK Azimut;;B;3,22;250;11
+Kunc;Matevž;1:13:21;5;0;OK Tivoli;;B;3,22;250;11
+Čelik;Aljaž;1:14:52;6;0;OK Azimut;;B;3,22;250;11
+Korelc;Andrej;1:16:19;7;0;OK Komenda;;B;3,22;250;11
+Tušar;Teja;1:16:44;8;0;OK Azimut;;B;3,22;250;11
+Kacin;Vojko;1:20:52;9;0;OK Azimut;;B;3,22;250;11
+Lapajne;Janko;1:33:09;10;0;OK Azimut;;B;3,22;250;11
+Rojc;Nejc;;;3;OK Azimut;;B;3,22;250;11
+Sedej;Vlado;;;3;OK Azimut;;B;3,22;250;11
+Plavčak;Ana;;;3;ŠOK;;B;3,22;250;11
+Leban;Manja;0:21:31;1;0;OK Azimut;;C;1,6;80;9
+Poljanšek;Katjuša;0:24:49;2;0;OK Azimut;;C;1,6;80;9
+Poljanšek;Marjanca;0:27:30;3;0;OK Azimut;;C;1,6;80;9
+Bogataj;Rok;0:29:20;4;0;OK Azimut;;C;1,6;80;9
+Leban;Domen;0:30:48;5;0;OK Azimut;;C;1,6;80;9
+Stojan;Petra;0:31:51;6;0;ind.;;C;1,6;80;9
+Eržen;Nea;0:32:23;7;0;OK Azimut;;C;1,6;80;9
+Pust;Karin;0:33:47;8;0;OK Azimut;;C;1,6;80;9
+Bogataj;Nataša;0:35:15;9;0;OK Azimut;;C;1,6;80;9
+Kunc;Mojca;0:38:29;10;0;OK Tivoli;;C;1,6;80;9
+Drobnič;Jadranka;0:39:57;11;0;OK Azimut;;C;1,6;80;9
+Mrak;Samuel;0:38:53;1;0;OK Azimut;;D;1,6;80;9
+Kremžar;Družina;0:43:55;2;0;ind.;;D;1,6;80;9
+Kremžar;Lucija;0:44:13;3;0;ind.;;D;1,6;80;9
+Kacin;Družina;0:47:24;4;0;ind.;;D;1,6;80;9
+Sedej;Družina;1:07:39;5;0;OK Azimut;;D;1,6;80;9
+Tomič;Družina;1:31:34;6;0;ind.;;D;1,6;80;9
+Lapajne;Družina;;;2;OK Azimut;;D;1,6;80;9
