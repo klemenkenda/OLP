@@ -5,12 +5,12 @@ Poljanšek;Aleš;OK Azimut;A;60:27;4;101.07;;88.98;0.00;;101.07;190.05;63.35
 Knap;Franc;OK Azimut;A;85:43;;;;;87.19;101.00;;188.19;94.10
 Kenda;Klemen;OK Azimut;A;61:17;5;98.79;;;83.70;0.00;98.79;182.49;60.83
 Eržen;Valentin;OK Azimut;A;59:36;3;103.41;;75.88;;;103.41;179.30;89.65
-Èopi;Gašper;OK Azimut;A;66:13;7;89.88;;;70.59;;89.88;160.47;80.23
+Èopi;Gašper;OK Azimut;A;66:13;7;89.88;0.00;;70.59;;89.88;160.47;53.49
+Èopi;Simon;OK Azimut;A;96:06;11;59.17;41.16;;58.23;;59.17;158.56;52.85
 Hvala;Gregor;OK Azimut;A;60:56;;;65.75;;91.61;;;157.36;78.68
 Obid;Marko;OK Azimut;A;71:48;9;81.20;;;61.36;;81.20;142.56;71.28
 Bogataj;Boštjan;OK Azimut;A;77:13;10;74.65;;;51.64;;74.65;126.28;63.14
 Cimerman;Janez;OK Azimut;A;1:14:35;;;53.25;67.36;;;;120.61;60.31
-Èopi;Simon;OK Azimut;A;96:06;11;59.17;;;58.23;;59.17;117.40;58.70
 Bogataj;Mark;OK Azimut;A;49:44;;;;;110.87;;;110.87;110.87
 Rupnik;Ambrož;OK Azimut;A;56:52;1;110.00;;;;0.00;110.00;110.00;55.00
 Gantar;Tjaž;OK Azimut;A;58:17;2;106.57;;;;;106.57;106.57;106.57
@@ -27,14 +27,12 @@ Kremžar;Tomaž;ind.;A;1:10:27;;;;72.20;;;;72.20;72.20
 Kunc;Robert;OK Tivoli;A;1:14:48;;;;66.17;;;;66.17;66.17
 Nejc;Moènik;OK Azimut;A;82:04;;;;;65.88;;;65.88;65.88
 Pust;Tomaž;OK Azimut;A;82:28;;;;;64.61;;;64.61;64.61
-Mocnik;Matic;OK Azimut;A;62:45;;;59.32;;;;;59.32;59.32
+Moènik;Matic;OK Azimut;A;62:45;;;59.32;;;;;59.32;59.32
 Kacin;Vojko;OK Azimut;A;112:32;;;;;44.48;;;44.48;44.48
 Sedej;Vlado;OK Azimut;A;113:56;;;;;42.97;;;42.97;42.97
-Copi;Simon;OK Azimut;A;87:23;;;41.16;;;;;41.16;41.16
 Lapajne;Janko;OK Azimut;A;117:02;;;;;40.89;;;40.89;40.89
 Kacin;Emil;OK Azimut;A;118:43;;;;;39.32;;;39.32;39.32
 Stanonik;Simon;OK Azimut;A;;11;0.00;0.00;;;;0.00;0.00;0.00
-Copi;Gašper;OK Azimut;A;;;;0.00;;;;;0.00;0.00
 Hribernik;Matej;ind.;A;;;;;0.00;;;;0.00;0.00
 Flerin;Mojca;Kamniški OK;A;;;;;;0.00;;;0.00;0.00
 Drešèek;Andraž;OK Azimut;A;;11;0.00;;;0.00;;0.00;0.00;0.00
@@ -67,12 +65,12 @@ Aljaž;Èelik;OK Azimut;B;75:10;;;;;76.70;;;76.70;76.70
 Rejec;Pavel;OK Azimut;B;70:54;10;69.82;;;;;69.82;69.82;69.82
 Obid;Aljaž;OK Azimut;B;74:24;11;65.72;;;;;65.72;65.72;65.72
 Poljanšek;Marjanca;OK Azimut;B;86:32;;;;;64.94;;;64.94;64.94
-Vidic;Matej;OK Azimut;B;55:46;;;59.86;;;;;59.86;59.86
+Vidiè;Matej;OK Azimut;B;55:46;;;59.86;;;;;59.86;59.86
 Èujec;Sergej;OK Azimut;B;;14;0.00;;;59.22;;0.00;59.22;29.61
 Leban;Tijana;OK Azimut;B;83:12;13;57.09;;;;;57.09;57.09;57.09
 Šorli;Janez;OK Azimut;B;111:18;;;;;46.04;;;46.04;46.04
 Knap;Èrtomir;OK Azimut;B;112:59;;;;;44.37;;;44.37;44.37
-Boncina;Igor;OK Azimut;B;52:10;;;0.00;;;;;0.00;0.00
+Bonèina;Igor;OK Azimut;B;52:10;;;0.00;;;;;0.00;0.00
 Rojc;Nejc;OK Azimut;B;;;;0.00;0.00;;;;0.00;0.00
 Sedej;Vlado;OK Azimut;B;;;;;0.00;;;;0.00;0.00
 Plavèak;Ana;ŠOK;B;;;;;0.00;;;;0.00;0.00
@@ -87,7 +85,7 @@ Petriè;Timi;OK Azimut;C;25:41;1;112.00;;;;;112.00;112.00;112.00
 Leban;Manja;OK Azimut;C;0:21:31;;;;110.00;;;;110.00;110.00
 Salopek;Tihon;OK Azimut;C;19:43;;;;;108.00;;;108.00;108.00
 Kavèiè;Valentin;OK Azimut;C;26:47;2;106.89;;;;;106.89;106.89;106.89
-Drobniè;Jadranka;OK Azimut;C;40:11;;;;53.86;51.07;;;104.93;52.46
+Drobniè;Jadranka;OK Azimut;C;40:11;;;0.00;53.86;51.07;;;104.93;34.98
 Poljanšek;Katjuša;OK Azimut;C;0:24:49;;;;95.70;;;;95.70;95.70
 Poljanšek;Marjanca;OK Azimut;C;0:27:30;;;;86.24;;;;86.24;86.24
 Èelik;Aljaž;OK Azimut;C;25:51;;;;;83.27;;;83.27;83.27
@@ -95,7 +93,7 @@ Tušar;Maja;OK Azimut;C;36:20;4;79.69;;;;;79.69;79.69;79.69
 Stojan;Petra;ind.;C;0:31:51;;;;72.56;;;;72.56;72.56
 Pust;Karin;OK Azimut;C;0:33:47;;;;66.69;;;;66.69;66.69
 Bogataj;Nataša;OK Azimut;C;0:35:15;;;;63.04;;;;63.04;63.04
-Kavcic;Julijan;OK Azimut;C;34:45;;;60.10;;;;;60.10;60.10
+Kavèiè;Julijan;OK Azimut;C;34:45;;;60.10;;;;;60.10;60.10
 Eržen;Nika;OK Azimut;C;;13;0.00;;;57.27;;0.00;57.27;28.63
 Kunc;Mojca;OK Tivoli;C;0:38:29;;;;56.91;;;;56.91;56.91
 Gnezda;Žan;OK Azimut;C;49:27;10;54.94;;;;;54.94;54.94;54.94
@@ -103,7 +101,6 @@ Wahl;Jan;OK Azimut;C;51:49;11;51.57;;;;;51.57;51.57;51.57
 Šorli Bd;Blaž;OK Azimut;C;57:52;12;45.38;;;;;45.38;45.38;45.38
 Pagon;Mateja;OK Azimut;C;59:33;13;43.13;;;;;43.13;43.13;43.13
 Nagy;Lovro & Marja;DROT;C;;;;0.00;;;;;0.00;0.00
-Drobnic;Jadranka;OK Azimut;C;;;;0.00;;;;;0.00;0.00
 Sedej;David;OK Azimut;C;;;;;;0.00;;;0.00;0.00
 Obid;Aljaž;OK Azimut;C;;;;;;0.00;;;0.00;0.00
 Pavliè;Zdenko;GAJA;C;;;;;;;0.00;;0.00;0.00
