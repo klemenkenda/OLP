@@ -1,31 +1,36 @@
 Surname;First name;City;Class;Time;Pl;Points;OLP 1;OLP 2;OLP 3;OLP 4;OLP 6;OLP 7;Sum;Average
 Eržen;Valentin;OK Azimut;A;0:30:03;3;99.74;67.36;76.11;110.66;;;99.74;353.88;88.47
 Tušar;Peter;OK Azimut;A;42:10;;;110.95;99.12;;106.00;;;316.07;105.36
+Bogataj;Mark;OK Azimut;A;2:38:16;;;102.48;92.93;;;108.00;;303.41;101.14
 Obid;Marko;OK Azimut;A;0:32:04;5;92.22;;57.05;85.78;57.41;;92.22;292.47;73.12
 Knap;Franc;OK Azimut;A;49:11;;;59.89;89.17;112.00;;;;261.06;87.02
 Sedej;Matej;OK Azimut;A;0:32:48;6;89.39;;66.37;94.05;;;89.39;249.81;83.27
+Poljanšek;Aleš;OK Azimut;A;0:31:35;4;94.48;;87.84;0.00;;66.39;94.48;248.71;62.18
 Gantar;Tjaž;OK Azimut;A;0:27:13;2;109.88;72.39;61.17;;;;109.88;243.44;81.15
 Stanonik;Simon;OK Azimut;A;39:29;;;112.74;115.00;;;;;227.74;113.87
 Hvala;Gregor;OK Azimut;A;0:26:22;1;114.00;106.39;;;;;114.00;220.39;110.20
-Bogataj;Mark;OK Azimut;A;49:24;;;102.48;92.93;;;;;195.41;97.70
-Poljanšek;Aleš;OK Azimut;A;0:31:35;4;94.48;;87.84;0.00;;;94.48;182.32;60.77
+Škarabot;Miha;OK Polaris;A;3:34:28;;;;;104.91;;76.80;;181.70;90.85
 Pust;Tomaž;OK Komenda;A;0:35:11;7;82.94;;;78.32;;;82.94;161.26;80.63
 Groff;Tomaž;OK Azimut;A;65:29;;;;80.29;77.11;;;;157.40;78.70
 Pavliè;Gregor;GAJA;A;69:25;;;;;70.10;65.74;;;135.84;67.92
 Èufer;Stanko;PD Ajdovšèina;A;0:40:54;14;65.47;;;;61.32;;65.47;126.78;63.39
+Eržen;Boris;ŠOK;A;4:02:05;;;;59.89;;;65.38;;125.27;62.63
 Procházka;David;LPU;A;36:41;;;122.00;;;;;;122.00;122.00
 Køivda;Tomáš;LPU;A;37:09;;;119.74;;;;;;119.74;119.74
 Hadalin;Iztok;OK Azimut;A;84:36;;;;67.56;;51.84;;;119.40;59.70
 Boril;Jan;LPU;A;37:21;;;118.22;;;;;;118.22;118.22
 Salopek;Tihomir;OK Azimut;A;49:27;;;;;109.46;;;;109.46;109.46
 Zakouril;Vit;LPU;A;40:32;;;107.50;;;;;;107.50;107.50
-Škarabot;Miha;OK Polaris;A;51:17;;;;;104.91;;;;104.91;104.91
+Piltaver;Jaka;OK Brežice;A;2:38:20;;;;;;;106.96;;106.96;106.96
 Wenzel;Hannes;OLCU Viktring;A;52:27;;;;;101.77;;;;101.77;101.77
 Marecev;Šimon;LPU;A;42:59;;;99.34;;;;;;99.34;99.34
 Cech;Petr;LPU;A;44:27;;;95.53;;;;;;95.53;95.53
+Jevševar;Bojan;OK Brežice;A;2:57:53;;;;;;;94.97;;94.97;94.97
 Rusin;Jan;LPU;A;46:00;;;91.75;;;;;;91.75;91.75
 Volák;Ondøej;LPU;A;46:25;;;90.03;;;;;;90.03;90.03
 Anderluh;Gregor;OK Polaris;A;59:02;;;;;89.31;;;;89.31;89.31
+	Kölner;Blaž;OK Komenda;A;3:08:03;;;;;;;89.16;;89.16;89.16
+Zupan;Gregor;OK Komenda;A;3:08:08;;;;;;;88.12;;88.12;88.12
 Semrád;Ladislav;LPU;A;47:02;;;87.99;;;;;;87.99;87.99
 Roudný;Martin;LPU;A;47:12;;;86.72;;;;;;86.72;86.72
 Mechancký;Jan;LPU;A;47:12;;;85.72;;;;;;85.72;85.72
@@ -35,6 +40,7 @@ Jazbar;Jožko;OK Azimut;A;54:41;;;;82.20;;;;;82.20;82.20
 Polojaz;Goran;SSD-AŠZ Gaja;A;0:36:30;8;79.24;;;;;;79.24;79.24;79.24
 Pelessoni;Jožef;SSD-AŠZ Gaja;A;0:36:52;9;77.52;;;;;;77.52;77.52;77.52
 Bettin;Renato;Swallows Noale;A;0:37:04;10;76.13;;;;;;76.13;76.13;76.13
+Petroviè;Dušan;OK Polaris;A;3:34:29;;;;;;;75.79;;75.79;75.79
 Kurinèiè;Simon;OK Komenda;A;0:37:57;11;73.48;;;;;;73.48;73.48;73.48
 Roudny;Vacláv;LPU;A;54:23;;;73.45;;;;;;73.45;73.45
 Bogataj;Boštjan;OK Azimut;A;0:38:05;12;72.23;;;;;;72.23;72.23;72.23
@@ -42,7 +48,6 @@ Rupnik;Ambrož;OK Azimut;A;;;;71.35;0.00;0.00;;;;71.35;23.78
 Zupan;Aleš;OK Polaris;A;70:01;;;;;71.25;;;;71.25;71.25
 Ferluga;Peter;SSD-AŠZ Gaja;A;0:39:10;13;69.32;;;;;;69.32;69.32;69.32
 Èopi;Gašper;OK Azimut;A;68:07;;;;62.96;;;;;62.96;62.96
-Eržen;Boris;ŠOK;A;69:24;;;;59.89;;;;;59.89;59.89
 Podobnik;Primož;OK Azimut;A;0:44:27;15;59.32;;;;;;59.32;59.32;59.32
 Fencl;Jiri;LPU;A;63:28;;;58.80;;;;;;58.80;58.80
 Pipek;Ondàej;LPU;A;65:08;;;56.32;;;;;;56.32;56.32
@@ -58,6 +63,7 @@ Kenda;Klemen;OK Azimut;A;;;;;0.00;;;;;0.00;0.00
 Taljat;Žiga;OK Azimut;A;;;;;;0.00;;;;0.00;0.00
 Rojc;Iztok;OK Polaris;A;;;;;;0.00;;;;0.00;0.00
 Tušar;Teja;OK Azimut;B;36:04;;;56.00;90.64;0.00;100.59;;;247.23;61.81
+Bogataj;Tajda;OK Azimut;B;0:29:10;1;116.00;;;;;100.98;116.00;216.98;108.49
 Sedej;Vlado;OK Azimut;B;0:42:47;7;78.17;58.03;;73.99;;;78.17;210.19;70.06
 Nelson;Charles;OK Azimut;B;0:51:02;12;62.15;59.74;;;74.18;;62.15;196.07;65.36
 Hölzer;Thomas;X-OL;B;42:36;;;71.36;111.00;;;;;182.36;91.18
@@ -69,18 +75,19 @@ Bogataj;Rok;OK Azimut;B;0:40:35;5;83.87;;;;63.47;;83.87;147.33;73.67
 Obid;Aljaž;OK Azimut;B;42:55;;;;;56.72;84.97;;;141.69;70.84
 Cechová;Tereza;LPU;B;36:10;;;127.00;;;;;;127.00;127.00
 Knapová;Lenka;LPU;B;38:08;;;120.84;;;;;;120.84;120.84
-Bogataj;Tajda;OK Azimut;B;0:29:10;1;116.00;;;;;;116.00;116.00;116.00
 Kaplan;Jan;LPU;B;40:01;;;115.38;;;;;;115.38;115.38
 Semrádová;Jana;LPU;B;40:04;;;114.27;;;;;;114.27;114.27
 Poljanšek;Marjanca;OK Azimut;B;0:54:13;15;55.80;;;;58.22;;55.80;114.02;57.01
 Salopek;Tihon;OK Azimut;B;53:21;;;;;110.00;;;;110.00;110.00
 Kenda;Klemen;OK Azimut;B;33:02;;;;;;110.00;;;110.00;110.00
 Kopecká;Anna;LPU;B;41:47;;;109.56;;;;;;109.56;109.56
+Hribar;Anica;OK Brežice;B;1:48:59;;;;;;;109.00;;109.00;109.00
 Babiè;Katja;OK Komenda;B;0:31:35;2;107.35;;;;;;107.35;107.35;107.35
 Jezeršek;Polona;OK Komenda;B;45:27;;;;103.73;;;;;103.73;103.73
 Wanková;Martina;LPU;B;44:29;;;103.30;;;;;;103.30;103.30
 Pavliè;Zdenko;GAJA;B;60:42;;;;;45.97;56.42;;;102.39;51.20
 Žvanut;Tilen;PD Ajdovšèina;B;65:36;;;50.34;;;51.36;;;101.70;50.85
+Krkoè;Urban;PD Ajdovšèina;B;1:57:15;;;;;;;99.95;;99.95;99.95
 Rupnik;Andraž;OK Azimut;B;0:34:21;3;98.91;;;;;;98.91;98.91;98.91
 Poljanšek;Nika;OK Azimut;B;;;;;95.64;0.00;;;;95.64;47.82
 Obid;Marko;OK Azimut;B;50:10;;;93.09;;;;;;93.09;93.09
@@ -90,11 +97,15 @@ Kurinèiè;Simon;OK Komenda;B;51:50;;;88.77;;;;;;88.77;88.77
 Sepin;Chiara;SSD-AŠZ Gaja;B;0:39:47;4;86.31;;;;;;86.31;86.31;86.31
 Zavrl;Zala;OK Komenda;B;53:03;;;;86.30;;;;;86.30;86.30
 Vojtíšková;Viktorie;LPU;B;53:10;;;86.03;;;;;;86.03;86.03
+Vuga Seljak;Alenka;OK Komenda;B;2:16:58;;;;;;;85.57;;85.57;85.57
+Seljak;Luka;OK Komenda;B;2:16:59;;;;;;;84.56;;84.56;84.56
 Pavliniè;Barbara;OK Komenda;B;69:02;;;;;84.28;;;;84.28;84.28
 Ortar;Miranda;OK Azimut;B;54:20;;;;83.40;;;;;83.40;83.40
+Seljak;Borut;OK Komenda;B;2:17:46;;;;;;;83.11;;83.11;83.11
 Leban;Manja;OK Azimut;B;0:40:47;6;82.52;;;;;;82.52;82.52;82.52
 Pust;Tomaž;OK Komenda;B;57:34;;;79.83;;;;;;79.83;79.83
 Roudný;Václav;LPU;B;58:04;;;78.28;;;;;;78.28;78.28
+Bonèina;Igor;OK Azimut;B;2:25:21;;;;;0.00;;77.98;;77.98;38.99
 Logar;Enej;OK Azimut;B;58:16;;;77.07;;;;;;77.07;77.07
 Šorli;Žiga;OK Azimut;B;77:06;;;;;75.20;;;;75.20;75.20
 Kavèiè;Julijan;OK Azimut;B;62:57;;;69.45;;;;;;69.45;69.45
@@ -105,9 +116,11 @@ Folyková;Eva;LPU;B;69:01;;;63.40;;;;;;63.40;63.40
 Obid;Neža;OK Azimut;B;0:50:53;11;63.32;;;;;;63.32;63.32;63.32
 Logar;Erik;OK Azimut;B;69:11;;;62.28;;;;;;62.28;62.28
 Gantar;Kristjan;OK Azimut;B;69:18;;;61.19;;;;;;61.19;61.19
+Plavèak;Ana;ŠOK;B;3:08:25;;;;0.00;;;59.84;;59.84;29.92
 Škarabot;Anja;OK Polaris;B;94:20;;;;;59.55;;;;59.55;59.55
 Eržen;Nea;OK Azimut;B;0:52:43;13;59.33;;;;;;59.33;59.33;59.33
 Bogataj;Nataša;OK Azimut;B;0:53:43;14;57.30;;;;;;57.30;57.30;57.30
+Borštnik;Aleš;OK Tivoli;B;3:20:09;;;;;;;55.45;;55.45;55.45
 Jerše;Damjana;OK Polaris;B;102:28;;;;;53.07;;;;53.07;53.07
 Rejec;Marjana;OK Azimut;B;0:57:07;16;52.07;;;0.00;;;52.07;52.07;26.03
 Šorli;Janez;OK Azimut;B;124:19;;;;48.99;0.00;;;;48.99;24.49
@@ -117,6 +130,7 @@ Katariè;Tit;OK Azimut;B;71:53;;;;;;45.95;;;45.95;45.95
 Krivièiè;Dragan;ŠOK;B;101:51;;;;41.83;;;;;41.83;41.83
 Špenko;Zala;OK Komenda;B;100:53;;;37.85;;;;;;37.85;37.85
 Isteniè;Maja;OK Azimut;B;1:20:55;17;36.05;;;;;;36.05;36.05;36.05
+	Krivièiæ;Dragan;OK Perkmandeljc Trbovlje;B;5:14:32;;;;;;;34.65;;34.65;34.65
 Paradiž;Petra;OK Komenda;B;111:32;;;33.43;;;;;;33.43;33.43
 Stojan;Petra;OK Komenda;B;114:15;;;31.66;;;;;;31.66;31.66
 Abrahamyan;Tigran;UWCAd;B;;;;0.00;;;;;;0.00;0.00
@@ -126,15 +140,15 @@ Ipavec;Kristina;OK Azimut;B;88:07;;;0.00;;;;;;0.00;0.00
 Razpet;Deja;OK Azimut;B;61:45;;;0.00;;;;;;0.00;0.00
 Bastione;Michele;UWCAd;B;;;;0.00;;;;;;0.00;0.00
 Vidmar;Miha;ind.;B;;;;0.00;;;;;;0.00;0.00
-Plavèak;Ana;ŠOK;B;;;;;0.00;;;;;0.00;0.00
 Anderluh;Katarina Eva;OK Polaris;B;;;;;;0.00;;;;0.00;0.00
-Bonèina;Igor;OK Azimut;B;;;;;;0.00;;;;0.00;0.00
 Rajgelj;Chiara;GAJA;B;;;;;;0.00;;;;0.00;0.00
 Anderluh;Marija;OK Polaris;B;;;;;;0.00;;;;0.00;0.00
 Anderluh;Luka;OK Polaris;B;84:03;;;;;0.00;;;;0.00;0.00
 Škarabot;Alenka;OK Polaris;B;108:21;;;;;0.00;;;;0.00;0.00
 Groff;Žiga;OK Azimut;B;;;;;;0.00;;;;0.00;0.00
 Ferrer;Carles;ALIGOTS;B;;;;;;;0.00;;;0.00;0.00
+Zupan;Romana;OK Komenda;B;2:14:06;;;;;;;0.00;;0.00;0.00
+Zupan;Tilen;OK Komenda;B;2:14:08;;;;;;;0.00;;0.00;0.00
 Eržen;Nea;OK Azimut;C;27:55;;;86.16;;92.61;102.00;;;280.77;93.59
 Obid;Neža;OK Azimut;C;34:55;;;80.09;;113.00;80.95;;;274.04;91.35
 Sedej;David;OK Azimut;C;0:38:47;6;72.70;63.79;;59.37;;;72.70;195.86;65.29
