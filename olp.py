@@ -6,7 +6,7 @@
 
 # globalne spremenljivke
 leagueCategories = ['A', 'B', 'C']
-csvName = 'olp_2016.csv'
+csvName = 'olp_2017.csv'
 
 # imports
 import csv
@@ -71,19 +71,21 @@ def readRaceCSV(fname):
                         time = time + factor * int(timeSplits[i])
                         factor = factor * 60
                 
-                if (row[classifierI] != '0'):
-                    time = 0
+                if (row[classifierI] != "0"):
+                    time = "-"
                 
                 # dodamo zapis na listo kar v JSON formatu
-                results.append({
-                    'name': row[nameI],
-                    'surname': row[surnameI],
-                    'club': club,
-                    'category': row[categoryI],
-                    'classifier': row[classifierI],
-                    'timeStr': row[timeI],
-                    'time': time
-                })
+                # če ne gre za vacanta
+                if (row[nameI] != "Vacant") & (row[surnameI] != "Vacant"):
+                    results.append({
+                        'name': row[nameI],
+                        'surname': row[surnameI],
+                        'club': club,
+                        'category': row[categoryI],
+                        'classifier': row[classifierI],
+                        'timeStr': row[timeI],
+                        'time': time
+                    })
                 
     return(results)
                 
